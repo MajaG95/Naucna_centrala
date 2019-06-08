@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Naucna_centrala
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PC
+Implementation-Vendor-Id: nc
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
